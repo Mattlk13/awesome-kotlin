@@ -6,7 +6,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.6.0",
     "copy-to-clipboard": "^3.2.0",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.4.1",
     "normalize.css": "^8.0.1",
     "query-string": "Heapy/query-string",
     "react": "^16.10.2",
